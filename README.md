@@ -12,8 +12,8 @@
 - [프로젝트 2](https://github.com/yourusername/project2): 프로젝트 설명
 
 ## 연락처
-- 이메일: example@example.com
-- 블로그: [example.com](https://example.com)
+- 이메일: wjddustkd45@gmail.com
+- 블로그: [TIL](https://publish.obsidian.md/til)
 
 ## GitHub 통계
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
