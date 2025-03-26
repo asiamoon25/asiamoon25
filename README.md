@@ -5,7 +5,7 @@
   <a href="mailto:wjddustkd45@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://publish.obsidian.md/til" target="_blank">
+  <a href="https://wjddustkd45.gitbook.io/sd" target="_blank">
     <img src="https://img.shields.io/badge/TIL-0A0A0A?style=for-the-badge&logo=Blog&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/jeongyeonsang97/" target="_blank">
